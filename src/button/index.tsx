@@ -4,7 +4,7 @@ import type { Component } from 'solid-js';
 const Button: Component = () => {
     return (
         <div>
-            button
+            button1
         </div>
     );
 };
